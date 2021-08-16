@@ -1,6 +1,12 @@
+import { toast } from "react-toastify";
+import { Button, Container } from "reactstrap";
+import Search from "../../components/Search";
 const Home = () => (
   <div>
-      asda
+    <Container>
+      <Search />
+      <Button onClick={() => toast.success("Wow so easy !")}>teste</Button>
+    </Container>
     {/* <label>
       Choose a browser from this list:
       <input list="browsers" name="myBrowser" />
