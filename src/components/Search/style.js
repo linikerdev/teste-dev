@@ -9,6 +9,11 @@ export const SearchContainer = styled(InputGroup)`
 export const SearchInput = styled(Input)`
   padding: 25px;
 `;
+export const SearchSelect = styled.select`
+  padding: 0 30px;
+  background-color: #fff;;
+  border: none;
+`;
 
 export const ButtonSearch = styled(Button)`
   background: #ddd;
