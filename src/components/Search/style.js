@@ -3,7 +3,7 @@ import styled from "styled-components";
 
 export const SearchContainer = styled(InputGroup)`
   position: relative;
-  padding: 30px 20px;
+  padding: 30px 0px;
   margin: 20px auto;
 `;
 export const SearchInput = styled(Input)`
