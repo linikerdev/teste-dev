@@ -8,12 +8,12 @@ A site to search for movies about star wars
 ### Install dependencies
 
 ```
-    npm install
+npm install
 ```
 ### Run project
 
 ```
-    npm run start
+npm run start
 ```
 
 ### External Libraries
